@@ -1,2 +1,2 @@
-var index = require("./index.js");nodejs other_file.js
+var index = require("./index.js");
 console.log(name);
